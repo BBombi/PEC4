@@ -1,0 +1,12 @@
+# Para la manipulación de datos
+pandas==2.2.3 
+
+# Visualización
+matplotlib==3.10.0
+
+# Suavizado de la tendéncia con filtro de Savitzky-Golay
+scipy==1.15.1
+
+
+# Testing (instalar si se quieren ejecutar los tests)
+pytest==8.4.0
